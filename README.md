@@ -28,7 +28,7 @@
 
 | 微調腳本 |
 | ------- |
-| [Debian Openbox Config](https://github.com/samwhelp/debian-openbox-adjustment |
+| [Debian Openbox Config](https://github.com/samwhelp/debian-openbox-adjustment) |
 | [Tool Config](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
