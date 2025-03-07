@@ -83,6 +83,7 @@
 | [Openbox 探索筆記](https://samwhelp.github.io/note-about-openbox/) | [GitHub](https://github.com/samwhelp/note-about-openbox) |
 | [BunsenLabs 探索筆記](https://samwhelp.github.io/note-about-bunsenlabs/) | [GitHub](https://github.com/samwhelp/note-about-bunsenlabs) |
 | [Mabox 探索筆記](https://samwhelp.github.io/note-about-mabox/) | [GitHub](https://github.com/samwhelp/note-about-mabox) |
+| [Archcraft OS 探索筆記](https://samwhelp.github.io/note-about-archcraft/) | [GitHub](https://github.com/samwhelp/note-about-archcraft) |
 
 
 
