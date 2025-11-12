@@ -28,7 +28,7 @@
 
 | 微調腳本 |
 | ------- |
-| [Debian Openbox Config](https://github.com/samwhelp/debian-openbox-adjustment) |
+| [Debian Openbox Config](https://github.com/samwhelp/debian-openbox-adjustment/tree/main/prototype/main/openbox-config/part/Main) |
 | [Tool Config](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
@@ -81,6 +81,15 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Openbox 探索筆記](https://samwhelp.github.io/note-about-openbox/) | [GitHub](https://github.com/samwhelp/note-about-openbox) |
+| [Debian Openbox 探索筆記](https://samwhelp.github.io/note-about-debian-openbox/) | [GitHub](https://github.com/samwhelp/note-about-debian-openbox) |
+| [Fedora Openbox 探索筆記](https://samwhelp.github.io/note-about-fedora-openbox/) | [GitHub](https://github.com/samwhelp/note-about-fedora-openbox) |
+| [Archlinux Openbox 探索筆記](https://samwhelp.github.io/note-about-archlinux-openbox/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-openbox) |
+
+
+
+
+| Link | GitHub |
+| ---- | ------ |
 | [BunsenLabs 探索筆記](https://samwhelp.github.io/note-about-bunsenlabs/) | [GitHub](https://github.com/samwhelp/note-about-bunsenlabs) |
 | [Mabox 探索筆記](https://samwhelp.github.io/note-about-mabox/) | [GitHub](https://github.com/samwhelp/note-about-mabox) |
 | [Archcraft OS 探索筆記](https://samwhelp.github.io/note-about-archcraft/) | [GitHub](https://github.com/samwhelp/note-about-archcraft) |
