@@ -81,7 +81,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Openbox 探索筆記](https://samwhelp.github.io/note-about-openbox/) | [GitHub](https://github.com/samwhelp/note-about-openbox) |
-| [Debian Openbox 探索筆記](https://samwhelp.github.io/note-about-debian-openbox/) | [GitHub](https://github.com/samwhelp/note-about-debian-openbox) |
+| [Ubuntu Openbox 探索筆記](https://samwhelp.github.io/note-about-ubuntu-openbox/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-openbox) |
 | [Fedora Openbox 探索筆記](https://samwhelp.github.io/note-about-fedora-openbox/) | [GitHub](https://github.com/samwhelp/note-about-fedora-openbox) |
 | [Archlinux Openbox 探索筆記](https://samwhelp.github.io/note-about-archlinux-openbox/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-openbox) |
 
